@@ -1,0 +1,13 @@
+{
+  "_comment": "API configuration. Both APIs used in this project are free and require no keys.",
+  "open_meteo": {
+    "base_url": "https://archive-api.open-meteo.com/v1/archive",
+    "requires_key": false,
+    "rate_limit_note": "Free API. Add a small delay between requests to be polite."
+  },
+  "rest_countries": {
+    "base_url": "https://restcountries.com/v3.1",
+    "requires_key": false,
+    "rate_limit_note": "Free API. No authentication required."
+  }
+}

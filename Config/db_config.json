@@ -1,0 +1,8 @@
+{
+  "_comment": "PostgreSQL connection configuration. Update these values to match your local setup.",
+  "host": "localhost",
+  "port": 5432,
+  "dbname": "weather_dw",
+  "user": "postgres",
+  "password": "your_password_here"
+}
